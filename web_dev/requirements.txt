@@ -1,0 +1,8 @@
+# Base requirements to run app_test.py
+torch==2.0.0
+pinecone-client==3.0.0
+langchain==0.1.20
+langchain-chroma==0.1.1
+langchain-community==0.0.38
+Flask==3.0.3
+transformers==4.41.1
